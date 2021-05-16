@@ -20,9 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
+
+/* removed span css code that changed title into two colors */
 
 .header div {
     padding-top: 15px;
